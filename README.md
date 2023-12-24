@@ -18,7 +18,7 @@
 <div>
     <p>
         Hi, I'm Mustafa Ahmed.<br> 
-        I'm passionate back-end developer and i love learning more about advanced programming concepts.<br>         
+        I'm a passionate back-end developer and i love learning more about advanced programming concepts.<br>         
         Recently, i am writing some documentations about mern stack and i can help in content writing about programming.
     </p>
     <li>🎓 I'm a Semi Senior Computer Science student.</li>
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 style="margin-top: 30px">📫 &nbsp;How to reach me :</h3>
+<h3>📫 &nbsp;How to reach me :</h3>
 <div align="center">
         <a href="mailto:mostafa3132004@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -62,7 +62,7 @@
             <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  
             <img  width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
             <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
-        <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+            <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
 
 ---
