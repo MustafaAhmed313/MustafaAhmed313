@@ -23,7 +23,7 @@
     </p>
     <li>🎓 I'm a Semi Senior Computer Science student.</li>
     <li>✨ I'm Interested in back-end programming.</li>
-    <li>🌱 I'm currently learniing MERN Stack.</li>
+    <li>🌱 I'm currently learning MERN Stack.</li>
     <li>♾️ I'm aiming to become a DevOps Engineer.</li>
 </div>
 
