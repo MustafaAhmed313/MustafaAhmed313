@@ -11,6 +11,11 @@
 <img src="https://camo.githubusercontent.com/825ea5df28e610cee97257781b6172f5d892978f9da8a2858cf66efc4f0302f4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f335877386a59337a62465274466436654b382f67697068792e676966" width="100" height="100">
 </div>
 
+<div align="center">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MustafaAhmed313?logo=github">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MustafaAhmed313?logo=github">
+</div>
+
 <h3>
  <img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px> &nbsp;About me :
 </h3>
