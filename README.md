@@ -23,13 +23,13 @@
 <div>
     <p>
         Hi, I'm Mustafa Ahmed.<br> 
-        I'm a passionate back-end developer and i love learning more about advanced programming concepts.<br>         
+        a passionate back-end developer and <br>currently learning more about advanced programming concepts.<br>         
         Recently, i am writing some documentations about mern stack and i can help in content writing about programming.
     </p>
     <li>🎓 I'm a Semi Senior Computer Science student.</li>
-    <li>✨ I'm Interested in back-end programming.</li>
-    <li>🌱 I'm currently learning MERN Stack.</li>
-    <li>♾️ I'm aiming to become a DevOps Engineer.</li>
+    <li>✨ Interested in back-end programming.</li>
+    <li>🌱 currently learning MERN Stack.</li>
+    <li>♾️ aiming to become a DevOps Engineer.</li>
 </div>
 
 ---
