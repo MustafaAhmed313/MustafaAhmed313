@@ -26,7 +26,7 @@
         a passionate back-end developer and <br>currently learning more about advanced programming concepts.<br>         
         Recently, i am writing some documentations about mern stack and i can help in content writing about programming.
     </p>
-    <li>🎓 I'm a Semi Senior Computer Science student.</li>
+    <li>🎓 Computer Science student at faculty of science.</li>
     <li>✨ Interested in back-end programming.</li>
     <li>🌱 currently learning MERN Stack.</li>
     <li>♾️ aiming to become a DevOps Engineer.</li>
