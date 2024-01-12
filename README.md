@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">    
-<img src="https://camo.githubusercontent.com/825ea5df28e610cee97257781b6172f5d892978f9da8a2858cf66efc4f0302f4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f335877386a59337a62465274466436654b382f67697068792e676966" width="100" height="100">
+<img src="http://sixfootgiraffe.com/wp-content/uploads/2014/05/2014_56.gif" width="120" height="120">
 </div>
 
 <div align="center">
