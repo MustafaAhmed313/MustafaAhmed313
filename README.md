@@ -29,7 +29,7 @@
     <li>🎓 Computer Science student at faculty of science.</li>
     <li>✨ Interested in back-end programming.</li>
     <li>🌱 currently learning MERN Stack.</li>
-    <li>♾️ aiming to become a DevOps Engineer.</li>
+    <li>♾️ aiming to become a Backend Engineer.</li>
 </div>
 
 ---
