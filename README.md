@@ -73,3 +73,20 @@
 </div>
 
 ---
+
+<div align="center">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Meow_Programmer/3a8c1259-1055-4fb1-9635-a977eed3a32a.png" /></a>
+</div>
+
+---
+
+<div align="center">
+    <a href="https://github.com/MustafaAhmed313">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MustafaAhmed313&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MustafaAhmed313&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustafaAhmed313&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MustafaAhmed313&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaAhmed313&theme=2077" height="180em" />
+</div>
+
+---
