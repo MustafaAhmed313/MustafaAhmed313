@@ -26,6 +26,21 @@
 
 ---
 
+<h3> 📫 &nbsp;How to reach me : </h3>
+<div align="left">
+        <a href="mailto:mostafa3132004@gmail.com">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+        </a>
+        <a href="https://www.facebook.com/profile.php?id=100009770403789">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+        </a>
+        <a href="https://www.linkedin.com/in/mustafa-ahmed-6489501a6/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+        </a>
+</div>
+
+---
+
 <h3> 💻 &nbsp;Top Projects : </h3>
 
 - 1. 🆑i [switchy](https://www.npmjs.com/package/switchy-cli) ➡ npm package.
@@ -39,21 +54,6 @@
 - 1. 📌 [Jest Unit Testing](https://github.com/MustafaAhmed313/Jest-JS-Unit-Testing) ➡ Jest.js Tutorial for beginners.
 - 2. 📌 [Typescript](https://github.com/MustafaAhmed313/Typescript-for-JSDevs) ➡ Typescript crash course for js developers.
 - 3. 📌 [Firebase](https://github.com/MustafaAhmed313/Firebase-Tutorial) ➡ Firebase tutorial for beginners.
-
----
-
-<h3> 📫 &nbsp;How to reach me : </h3>
-<div align="left">
-        <a href="mailto:mostafa3132004@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-        </a>
-        <a href="https://www.facebook.com/profile.php?id=100009770403789">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-        </a>
-        <a href="https://www.linkedin.com/in/mustafa-ahmed-6489501a6/">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-        </a>
-</div>
     
 ---
 
