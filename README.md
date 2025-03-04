@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/b6b3c2ab-5898-4f2f-b5b5-fe6d1a81db37)
-
-
 <p align="center" style="margin: 10px 0">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Junior+Software+Engineer👨‍💻;I'm+a+Back-End+Developer;I'm++an+Active+Learner" alt="Typing SVG" /></a>
 </p>
