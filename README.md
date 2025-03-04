@@ -1,6 +1,6 @@
-<p align="center" style="margin: 10px 0">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=635&lines=Hi+There++%F0%9F%91%8B+!;I+am+Mustafa+%F0%9F%98%84;I+am+a+Junior+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-</p>
+<h1 align="center" style="margin: 10px 0">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There++%F0%9F%91%8B+!;I+am+Mustafa+A.+Farghaly++%F0%9F%98%84;I+am+a+Junior+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</h1>
 
 <div align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MustafaAhmed313?logo=github">
@@ -20,21 +20,23 @@
     <li>♾️ aiming to become a Backend Engineer.</li>
 </div>
 
----
 
-<h3> 📫 &nbsp;How to reach me : </h3>
-<div align="left">
+<div align="center">
+    <h3> 📫 Get in touch with me 📫 </h3>    
+</div>
+        
+<div align="center">        
         <a href="mailto:mostafa3132004@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  />
         </a>
         <a href="https://www.facebook.com/profile.php?id=100009770403789">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo"  />
         </a>
         <a href="https://www.linkedin.com/in/mustafa-ahmed-6489501a6/">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
         </a>
 </div>
-
+ 
 ---
 
 <h3> 💻 &nbsp;Top Projects : </h3>
