@@ -1,5 +1,5 @@
 <p align="center" style="margin: 10px 0">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Junior+Software+Engineer👨‍💻;I'm+a+Back-End+Developer;I'm++an+Active+Learner" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=635&lines=Hi+There++%F0%9F%91%8B+!;I+am+Mustafa+%F0%9F%98%84;I+am+a+Junior+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -8,7 +8,6 @@
 </div>
 
 <h3> 🤵 &nbsp;About me : </h3>
-
 <div>
     <p>
         Hi, I'm Mustafa Ahmed.<br> 
