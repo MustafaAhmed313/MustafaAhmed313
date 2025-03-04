@@ -37,9 +37,11 @@
         </a>
 </div>
  
----
+<br>
 
-<h3> 💻 &nbsp;Top Projects : </h3>
+<details>
+    <summary>💻 &nbsp;Top Projects</summary>
+    <br>
 
 - 🆑I [switchy](https://www.npmjs.com/package/switchy-cli) ➡ npm package.
 - 📔 [Note Taker](https://github.com/MustafaAhmed313/Note-Taker/releases/tag/v1.0.0) ➡ Mobile App for notes.
@@ -47,7 +49,11 @@
 
 ---
 
-<h3> 📓 &nbsp;Top Notes : </h3>
+</details>
+
+<details>
+    <summary>📓 &nbsp;Top Notes</summary>
+    <br>
 
 - 📌 [Jest Unit Testing](https://github.com/MustafaAhmed313/Jest-JS-Unit-Testing) ➡ Jest.js Tutorial for beginners.
 - 📌 [Typescript](https://github.com/MustafaAhmed313/Typescript-for-JSDevs) ➡ Typescript crash course for js developers.
@@ -55,7 +61,12 @@
     
 ---
 
-<h3>🛠 &nbsp;Tech Stack :</h3>
+</details>
+
+<details>
+    <summary>🛠 &nbsp;Tech Stack</summary>
+    <br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -110,7 +121,12 @@
 
 ---
 
-<h3> 📊 &nbsp;Github status : </h3>
+</details>
+
+<details>
+    <summary>📊 &nbsp;Github & Wakatime status</summary>
+    <br>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MustafaAhmed313&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 <img src="https://streak-stats.demolab.com/?user=MustafaAhmed313&theme=Algolia&hide_border=true&order=2" />
@@ -118,9 +134,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=MustafaAhmed313&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+<br>
 
-<h3> 📊 &nbsp;Wakatime status : </h3>
 <div align="center">
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Meow_Programmer/3a8c1259-1055-4fb1-9635-a977eed3a32a.png" /></a>
 </div>
