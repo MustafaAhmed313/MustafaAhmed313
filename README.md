@@ -43,17 +43,17 @@
 
 <h3> 💻 &nbsp;Top Projects : </h3>
 
-- 1. 🆑i [switchy](https://www.npmjs.com/package/switchy-cli) ➡ npm package.
-- 2. 📔 [Note Taker](https://github.com/MustafaAhmed313/Note-Taker/releases/tag/v1.0.0) ➡ Mobile App for notes.
-- 3. 🏥 [Hospital Lifecycle](https://github.com/MustafaAhmed313/hospital-simulation) ➡ Simulation model for patients in a hospital.
+- 🆑i [switchy](https://www.npmjs.com/package/switchy-cli) ➡ npm package.
+- 📔 [Note Taker](https://github.com/MustafaAhmed313/Note-Taker/releases/tag/v1.0.0) ➡ Mobile App for notes.
+- 🏥 [Hospital Lifecycle](https://github.com/MustafaAhmed313/hospital-simulation) ➡ Simulation model for patients in a hospital.
 
 ---
 
 <h3> 📓 &nbsp;Top Notes : </h3>
 
-- 1. 📌 [Jest Unit Testing](https://github.com/MustafaAhmed313/Jest-JS-Unit-Testing) ➡ Jest.js Tutorial for beginners.
-- 2. 📌 [Typescript](https://github.com/MustafaAhmed313/Typescript-for-JSDevs) ➡ Typescript crash course for js developers.
-- 3. 📌 [Firebase](https://github.com/MustafaAhmed313/Firebase-Tutorial) ➡ Firebase tutorial for beginners.
+- 📌 [Jest Unit Testing](https://github.com/MustafaAhmed313/Jest-JS-Unit-Testing) ➡ Jest.js Tutorial for beginners.
+- 📌 [Typescript](https://github.com/MustafaAhmed313/Typescript-for-JSDevs) ➡ Typescript crash course for js developers.
+- 📌 [Firebase](https://github.com/MustafaAhmed313/Firebase-Tutorial) ➡ Firebase tutorial for beginners.
     
 ---
 
