@@ -112,6 +112,7 @@
 
 ---
 
+<h3> 📊 &nbsp;Github status : </h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MustafaAhmed313&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 <img src="https://streak-stats.demolab.com/?user=MustafaAhmed313&theme=Algolia&hide_border=true&order=2" />
@@ -121,6 +122,7 @@
 
 ---
 
+<h3> 📊 &nbsp;Wakatime status : </h3>
 <div align="center">
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Meow_Programmer/3a8c1259-1055-4fb1-9635-a977eed3a32a.png" /></a>
 </div>
