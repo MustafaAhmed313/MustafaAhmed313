@@ -10,7 +10,7 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MustafaAhmed313?logo=github">
 </div>
 
-<h3> 🤵 &nbsp;About me : </h3>
+<h3> 🤵 &nbsp;About me : <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"></h3>
 <div>
     <p>
         Hi, I'm Mustafa Ahmed.<br> 
