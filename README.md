@@ -1,6 +1,9 @@
-<h1 align="center" style="margin: 10px 0">
+<div align="center">
+    <h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There++%F0%9F%91%8B+!;I+am+Mustafa+A.+Farghaly++%F0%9F%98%84;I+am+a+Junior+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-</h1>
+    </h1>
+</div>
+
 
 <div align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MustafaAhmed313?logo=github">
