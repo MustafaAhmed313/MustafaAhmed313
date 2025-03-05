@@ -43,7 +43,7 @@
 <br>
 
 <details>
-    <summary>💻 &nbsp;Top Projects</summary>
+    <summary><h4>💻 &nbsp;Top Projects</h4></summary>
     <br>
 
  <div align="center">
@@ -51,7 +51,7 @@
 
 |Project Name| Short summary| Framework |
 |-------|-----|----|
-|🆑I [switchy](https://www.npmjs.com/package/switchy-cli) | npm cli package  for managing local repositories. ![NPM Downloads](https://img.shields.io/npm/dw/switchy-cli?color=blue) ![NPM Version](https://img.shields.io/npm/v/switchy-cli) | ![nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=%235FA04E&labelColor=white&color=%235FA04E) |
+|📦 [switchy](https://www.npmjs.com/package/switchy-cli) | npm cli package  for managing local repositories. ![NPM Downloads](https://img.shields.io/npm/dw/switchy-cli?color=blue) ![NPM Version](https://img.shields.io/npm/v/switchy-cli) | ![nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=%235FA04E&labelColor=white&color=%235FA04E) |
 |📔 [Note Taker](https://github.com/MustafaAhmed313/Note-Taker/releases/tag/v1.0.0) | Mobile App for daily notes.| ![Static Badge](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=%2302569B&labelColor=white&color=%2302569B) |
 |🏥 [Hospital Lifecycle](https://github.com/MustafaAhmed313/hospital-simulation) | Simulation model for patients in a hospital.| ![Static Badge](https://img.shields.io/badge/Anylogic-18BFFF?style=plastic&color=%2318BFFF) |
 
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-    <summary>📓 &nbsp;Top Notes</summary>
+    <summary><h4>📓 &nbsp;Top Notes</h4></summary>
     <br>
 
 - 📌 [Jest Unit Testing](https://github.com/MustafaAhmed313/Jest-JS-Unit-Testing) ➡ Jest.js Tutorial for beginners.
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-    <summary>🛠 &nbsp;Tech Stack</summary>
+    <summary><h4>🛠 &nbsp;Tech Stack</h4></summary>
     <br>
 
 <div align="left">
@@ -135,7 +135,7 @@
 </details>
 
 <details>
-    <summary>📊 &nbsp;Github & Wakatime status</summary>
+    <summary><h4>📊 &nbsp;Github & Wakatime status</h4></summary>
     <br>
 
 <div align="left">
