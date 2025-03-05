@@ -43,7 +43,7 @@
 <br>
 
 <details>
-    <summary><h4>💻 &nbsp;Top Projects</h4></summary>
+    <summary>💻 &nbsp;Top Projects</summary>
     <br>
 
  <div align="center">
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-    <summary><h4>📓 &nbsp;Top Notes</h4></summary>
+    <summary>📓 &nbsp;Top Notes</summary>
     <br>
 
 - 📌 [Jest Unit Testing](https://github.com/MustafaAhmed313/Jest-JS-Unit-Testing) ➡ Jest.js Tutorial for beginners.
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-    <summary><h4>🛠 &nbsp;Tech Stack</h4></summary>
+    <summary>🛠 &nbsp;Tech Stack</summary>
     <br>
 
 <div align="left">
@@ -135,7 +135,7 @@
 </details>
 
 <details>
-    <summary><h4>📊 &nbsp;Github & Wakatime status</h4></summary>
+    <summary>📊 &nbsp;Github & Wakatime status</summary>
     <br>
 
 <div align="left">
