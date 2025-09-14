@@ -148,6 +148,12 @@
 <br>
 
 <div align="center">
+    <img src="https://leetcard.jacoblin.cool/mostafa3132004?ext=activity" alt="Mustafa Ahmed's leetcode profile"/></a>
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Meow_Programmer/3a8c1259-1055-4fb1-9635-a977eed3a32a.png" /></a>
 </div>
 
